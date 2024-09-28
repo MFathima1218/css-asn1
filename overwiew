@@ -1,0 +1,52 @@
+Using the provided HTML structure, create a CSS file (styles.css) to style the "My Favorite Books" page. Your task is to apply styles using element selectors, classes, and IDs. Follow these requirements:
+
+Style the body:
+Use a sans-serif font
+Set a background color
+
+
+Style the header:
+Add a background color
+Center the text
+Set the text color to white
+
+
+Style the main headings (h1 and h2):
+Choose appropriate colors
+Adjust the font size if needed
+
+
+Style the unordered lists:
+Remove bullet points
+Add some spacing between list items
+
+
+Style individual list items:
+Add a background color
+Add some padding
+Round the corners
+
+
+Use the "bestseller" class to:
+Make the text bold
+Change the text color to make it stand out
+
+
+Use IDs to style the fiction and non-fiction sections differently:
+Add different background colors
+Add padding
+Round the corners
+
+
+Style the footer:
+Center the text
+Make it italic
+
+
+Use the "student-name" class to:
+Make the text bold
+Change the text color
+
+
+
+

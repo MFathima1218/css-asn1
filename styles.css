@@ -1,0 +1,45 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(222, 140, 218);
+}
+header{
+    background-color: rgb(63, 10, 66);
+    text-align: center;
+    color: snow;
+}
+h2{
+    color: black
+}
+li{
+list-style-type: none;
+padding: 10px;
+color: rgb(63, 10, 66);
+background-color: rgb(229, 226, 229);
+border-radius: 10px;
+margin: 10px;
+display: inline-block;
+
+}
+
+.bestseller{
+    font-weight: bold;
+    color: black;
+}
+
+footer{
+    text-align: center;
+padding: 30px;
+font-style: italic;   
+}
+
+#fiction{
+    background-color: rgb(210, 122, 206);
+}
+#non-fiction{
+    background-color: rgb(244, 137, 217);
+}
+.student-name{
+    color: rgb(60, 13, 77);
+    font-weight: bold;
+
+}
